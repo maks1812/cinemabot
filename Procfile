@@ -1,2 +1,1 @@
-web : python Bot.py
-web : python BotData.py
+bot: python3 Bot.py
